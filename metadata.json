@@ -1,0 +1,5 @@
+{
+  "name": "Agenda de Reuniões PM/3",
+  "description": "Uma aplicação web para agendar, gerenciar e visualizar reuniões, com funcionalidades de exportação de dados e integração com Google Planilhas.",
+  "requestFramePermissions": []
+}
